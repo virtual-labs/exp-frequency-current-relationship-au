@@ -1,1 +1,4 @@
-## Experiment name
+
+
+
+Understanding Frequency-Current relationship.
