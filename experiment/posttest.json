@@ -1,39 +1,82 @@
 {
   "version": 2.0,
   "questions": [
+    
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. ________ technique is used to study current - spike frequency relationship in order to understand membrane properties.: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Current clamp",
+        "b": "Voltage clamp",
+        "c": "Both Voltage clamp and Current clamp",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+  
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. __________ drug is used as sodium ion channel blocker for calculating reverse potential which is created because of the flow of Na+ ions.: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "TEA",
+        "b": "TTX",
+        "c": "CCB",
+        "d": "All the above"
+       
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. Current - frequency graph plots ______ on x-axis and _______ on y-axis: ",
+      "answers": {
+        "a": "current and number of spikes",
+        "b": "voltage and conductance",
+        "c": "voltage and current",
+        "d": "current and conductance"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. In electrophysiology current - spike frequency plots are are mainly used to study _______________.: ",
+      "answers": {
+        "a": "Reversal potential and conductance of ion channels",
+        "b": "Action potentials",
+        "c": "Extracellular potential",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. when the amplitude of injected current is increases as response from the cell, a) the first spike latency increases and b) the number of spikes increases: ",
+      "answers": {
+        "a": "'a' and 'b' are true",
+        "b": "'a' is false and 'b' is true",
+        "c": "'a' and 'b' are false",
+        "d": "Both are false"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
+
+
   ]
 }
