@@ -1,4 +1,1 @@
-
-
-
-Understanding Frequency-Current relationship.
+## Understanding Frequency-Current relationship.
